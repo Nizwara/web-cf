@@ -16,6 +16,8 @@ function generateRandomUUID() {
 // Configuration
 const serverDomains = [
   "vip.dnm.biz.id"
+  "wc.mbahdongkhe.xyz"
+  "cf.naiya.my.id"
 ];
 const API_STATUS_URL = "https://api.jb8fd7grgd.workers.dev";
 let selectedServerDomain = serverDomains[0] // Default to first domain
