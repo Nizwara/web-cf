@@ -15,7 +15,7 @@ function generateRandomUUID() {
 
 // Configuration
 const serverDomains = [
-  "vip.dnm.biz.id",
+  "cf.dnm.qzz.io",
   "wc.mbahdongkhe.xyz",
   "cf.naiya.my.id"
 ];
