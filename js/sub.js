@@ -8,7 +8,7 @@ const CONFIG = {
   proxyListUrl: "ProxyList.txt",
   apiCheckUrl: "https://api.jb8fd7grgd.workers.dev",
   mainDomains: [
-    "vip.dnm.biz.id",    
+    "cf.dnm.qzz.io",    
     "wc.mbahdongkhe.xyz",
     "cf.naiya.my.id"
   ],
